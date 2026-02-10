@@ -1,0 +1,7 @@
+{
+ "projectId": "4f30080c-c803-4448-a93b-1dcef652b8e7",
+ "createdAt": 1770741039640,
+ "startupCommands": [
+   "source .venv/bin/activate && python3 server.py"
+ ]
+}
